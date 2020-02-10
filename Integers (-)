@@ -1,0 +1,7 @@
+public class Main {
+public static void main(String[] args){
+int a = 10;
+int b = 5; 
+System.out.println(a-b);
+
+// The code above prints 10-5, assigning a=10 and b=5. The line printed out is the result of 10-5=(5).
