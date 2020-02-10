@@ -1,0 +1,10 @@
+# Integers
+// (Addition, Subtraction, etc in Java)
+
+public class Main {
+public static void main(String[] args){
+int a = 5;
+int b = 10;
+System.out.println(a+5);
+
+//The code above essentially prints out 5+10, ("") aren't really needed in this code.
